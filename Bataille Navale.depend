@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476115271 source:c:\users\maxence\documents\imie\projets c\bataille navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"placement.h"
+
+1476105853 source:c:\users\maxence\documents\imie\projets c\bataille navale\placementbateaux.c
+
+1476115364 c:\users\maxence\documents\imie\projets c\bataille navale\placement.h
+	<stdio.h>
+	<stdlib.h>
+
